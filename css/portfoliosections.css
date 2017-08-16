@@ -1,0 +1,160 @@
+#mechanical .portfolio-item {
+  right: 0;
+  margin: 0 0 15px; }
+  #mechanical .portfolio-item .portfolio-link {
+    position: relative;
+    display: block;
+    max-width: 400px;
+    margin: 0 auto;
+    cursor: pointer; }
+    #mechanical .portfolio-item .portfolio-link .portfolio-hover {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      -webkit-transition: all ease 0.5s;
+      -moz-transition: all ease 0.5s;
+      transition: all ease 0.5s;
+      opacity: 0;
+      background: rgba(254, 209, 54, 0.9); }
+      #mechanical .portfolio-item .portfolio-link .portfolio-hover:hover {
+        opacity: 1; }
+      #mechanical .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+        font-size: 20px;
+        position: absolute;
+        top: 50%;
+        width: 100%;
+        height: 20px;
+        margin-top: -12px;
+        text-align: center;
+        color: white; }
+        #mechanical .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
+          margin-top: -12px; }
+        #mechanical .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
+        #mechanical .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
+          margin: 0; }
+  #mechanical .portfolio-item .portfolio-caption {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 25px;
+    text-align: center;
+    background-color: white; }
+    #mechanical .portfolio-item .portfolio-caption h4 {
+      margin: 0;
+      text-transform: none; }
+    #mechanical .portfolio-item .portfolio-caption p {
+      font-size: 16px;
+      font-style: italic;
+      margin: 0;
+      font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+
+#mechanical * {
+  z-index: 2; }
+  
+  
+  /* ELECTRICAL */
+  
+  #electrical .portfolio-item {
+  right: 0;
+  margin: 0 0 15px; }
+  #electrical .portfolio-item .portfolio-link {
+    position: relative;
+    display: block;
+    max-width: 400px;
+    margin: 0 auto;
+    cursor: pointer; }
+    #electrical .portfolio-item .portfolio-link .portfolio-hover {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      -webkit-transition: all ease 0.5s;
+      -moz-transition: all ease 0.5s;
+      transition: all ease 0.5s;
+      opacity: 0;
+      background: rgba(254, 209, 54, 0.9); }
+      #electrical .portfolio-item .portfolio-link .portfolio-hover:hover {
+        opacity: 1; }
+      #electrical .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+        font-size: 20px;
+        position: absolute;
+        top: 50%;
+        width: 100%;
+        height: 20px;
+        margin-top: -12px;
+        text-align: center;
+        color: white; }
+        #electrical .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
+          margin-top: -12px; }
+        #electrical .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
+        #electrical .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
+          margin: 0; }
+  #electrical .portfolio-item .portfolio-caption {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 25px;
+    text-align: center;
+    background-color: white; }
+    #electrical .portfolio-item .portfolio-caption h4 {
+      margin: 0;
+      text-transform: none; }
+    #electrical .portfolio-item .portfolio-caption p {
+      font-size: 16px;
+      font-style: italic;
+      margin: 0;
+      font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+
+#electrical * {
+  z-index: 2; }
+  
+  /* SOFTWARE */
+  
+  #software .portfolio-item {
+  right: 0;
+  margin: 0 0 15px; }
+  #software .portfolio-item .portfolio-link {
+    position: relative;
+    display: block;
+    max-width: 400px;
+    margin: 0 auto;
+    cursor: pointer; }
+    #software .portfolio-item .portfolio-link .portfolio-hover {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+      -webkit-transition: all ease 0.5s;
+      -moz-transition: all ease 0.5s;
+      transition: all ease 0.5s;
+      opacity: 0;
+      background: rgba(254, 209, 54, 0.9); }
+      #software .portfolio-item .portfolio-link .portfolio-hover:hover {
+        opacity: 1; }
+      #software .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
+        font-size: 20px;
+        position: absolute;
+        top: 50%;
+        width: 100%;
+        height: 20px;
+        margin-top: -12px;
+        text-align: center;
+        color: white; }
+        #software .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content i {
+          margin-top: -12px; }
+        #software .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h3,
+        #software .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content h4 {
+          margin: 0; }
+  #software .portfolio-item .portfolio-caption {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 25px;
+    text-align: center;
+    background-color: white; }
+    #software .portfolio-item .portfolio-caption h4 {
+      margin: 0;
+      text-transform: none; }
+    #software .portfolio-item .portfolio-caption p {
+      font-size: 16px;
+      font-style: italic;
+      margin: 0;
+      font-family: 'Droid Serif', 'Helvetica Neue', Helvetica, Arial, sans-serif; }
+
+#software * {
+  z-index: 2; }
