@@ -15,7 +15,7 @@
       -moz-transition: all ease 0.5s;
       transition: all ease 0.5s;
       opacity: 0;
-      background: rgba(254, 209, 54, 0.9); }
+      background: rgba(255, 122, 4, 0.9); }
       #mechanical .portfolio-item .portfolio-link .portfolio-hover:hover {
         opacity: 1; }
       #mechanical .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
@@ -70,7 +70,7 @@
       -moz-transition: all ease 0.5s;
       transition: all ease 0.5s;
       opacity: 0;
-      background: rgba(254, 209, 54, 0.9); }
+      background: rgba(255, 122, 4, 0.9); }
       #electrical .portfolio-item .portfolio-link .portfolio-hover:hover {
         opacity: 1; }
       #electrical .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
@@ -124,7 +124,7 @@
       -moz-transition: all ease 0.5s;
       transition: all ease 0.5s;
       opacity: 0;
-      background: rgba(254, 209, 54, 0.9); }
+      background: rgba(255, 122, 4, 0.9); }
       #software .portfolio-item .portfolio-link .portfolio-hover:hover {
         opacity: 1; }
       #software .portfolio-item .portfolio-link .portfolio-hover .portfolio-hover-content {
