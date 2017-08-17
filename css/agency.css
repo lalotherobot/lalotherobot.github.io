@@ -170,7 +170,7 @@ header.masthead {
     display: block;
     max-width: 400px;
     margin: 0 auto;
-    cursor: pointer; }
+    }
     #portfolio .portfolio-item .portfolio-link .portfolio-hover {
       position: absolute;
       width: 100%;
@@ -248,7 +248,7 @@ header.masthead {
   .portfolio-modal .modal-content img {
     margin-bottom: 30px; }
   .portfolio-modal .modal-content button {
-    cursor: pointer; }
+    }
 
 .portfolio-modal .close-modal {
   position: absolute;
@@ -256,7 +256,6 @@ header.masthead {
   right: 25px;
   width: 75px;
   height: 75px;
-  cursor: pointer;
   background-color: transparent; }
   .portfolio-modal .close-modal:hover {
     opacity: 0.3; }
